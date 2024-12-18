@@ -1,0 +1,26 @@
+# Virtual Environments
+.venv/
+venv/
+
+# Node Modules
+node_modules/
+
+# Logs
+*.log
+
+# Editor/IDE Settings
+.vscode/
+
+# Generated or Temporary Files
+backend/results/*
+backend/uploads/*
+results/*
+
+# Keep the folder structure
+!backend/results/.gitkeep
+!backend/uploads/.gitkeep
+!results/.gitkeep
+
+# System Files
+.DS_Store
+Thumbs.db
