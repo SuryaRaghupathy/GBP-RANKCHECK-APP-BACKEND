@@ -194,7 +194,9 @@ def upload_file():
     except Exception as e:
         logging.error(f"Error processing uploaded file: {e}")
         return jsonify({"error": str(e)}), 500
-
+@app.route("/")
+def home():
+    return "Backend is running successfully!"
 @app.route('/results/<filename>', methods=['GET'])
 def download_result(filename):
     """Allow users to download the processed results."""
