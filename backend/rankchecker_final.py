@@ -13,8 +13,8 @@ import json
 
 # Initialize Flask app
 app = Flask(__name__)
-CORS(app)
-
+# CORS(app)
+CORS(app, resources={r"/*": {"origins": "https://gbp-rankcheck-app.onrender.com"}})
 # Directories for upload and result files
 BASE_DIR = os.path.abspath(os.path.dirname(__file__))
 UPLOAD_FOLDER = os.path.join(BASE_DIR, "uploads")

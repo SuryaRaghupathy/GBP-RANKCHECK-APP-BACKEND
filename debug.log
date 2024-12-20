@@ -5914,3 +5914,23 @@ Stacktrace:
 2024-12-19 18:57:52,872 INFO:  * Restarting with stat
 2024-12-19 18:57:53,894 WARNING:  * Debugger is active!
 2024-12-19 18:57:53,894 INFO:  * Debugger PIN: 110-062-430
+2024-12-19 21:00:41,376 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.231.212:5000
+2024-12-19 21:00:41,376 INFO: [33mPress CTRL+C to quit[0m
+2024-12-19 21:00:41,376 INFO:  * Restarting with stat
+2024-12-19 21:00:42,396 WARNING:  * Debugger is active!
+2024-12-19 21:00:42,396 INFO:  * Debugger PIN: 110-062-430
+2024-12-20 12:07:08,997 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.189:5000
+2024-12-20 12:07:09,013 INFO: [33mPress CTRL+C to quit[0m
+2024-12-20 12:07:09,013 INFO:  * Restarting with stat
+2024-12-20 12:07:10,023 WARNING:  * Debugger is active!
+2024-12-20 12:07:10,027 INFO:  * Debugger PIN: 110-062-430
+2024-12-20 12:20:56,330 INFO:  * Detected change in 'c:\\Users\\SuryaRaghupathy\\OneDrive - Nurtur Limited\\GMB Rank tracking tool\\backend\\rankchecker_final.py', reloading
+2024-12-20 12:20:56,397 INFO:  * Restarting with stat
+2024-12-20 12:20:57,381 WARNING:  * Debugger is active!
+2024-12-20 12:20:57,381 INFO:  * Debugger PIN: 110-062-430
