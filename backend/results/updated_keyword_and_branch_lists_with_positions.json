@@ -1,38 +1,18 @@
 [
     {
-        "Brand": "CJ Hole",
-        "Branch": "Bishopston",
-        "Office": "CJ Hole - Bishopston",
-        "Keyword": "estate agents in Bishopston",
-        "ranking_list": [
-            "CJ Hole Bishopston Letting & Estate Agents",
-            "Andrews Bishopston",
-            "Elephant Estate Agents",
-            "Ocean Estate Agents, Bishopston",
-            "Winkworth Bishopston",
-            "The Bristol Residential Letting Co. Bishopston",
-            "Kendall Harper",
-            "Airsat Real Estate",
-            "JBS Lettings Bristol",
-            "Missiato Estates",
-            "Home For You",
-            "Boardwalk Property Co. Estate Agents Bristol",
-            "CJ Hole Henleaze Estate & Letting Agents",
-            "Pentrich Properties Ltd",
-            "Elephant Estate Agents",
-            "Westcoast Properties Bishopston"
-        ],
-        "position": 1
+        "Brand": "Martin & Co",
+        "Branch": "Solihull",
+        "Office": "Martin & Co - Solihull",
+        "Keyword": "estate agents in Solihull",
+        "ranking_list": [],
+        "position": null
     },
     {
-        "Brand": "CJ Hole",
-        "Branch": "Bishopsworth",
-        "Office": "CJ Hole - Bishopsworth",
-        "Keyword": "estate agents in Bishopsworth",
-        "ranking_list": [
-            "CJ Hole Bishopsworth Letting & Estate Agents",
-            "Hunters Estate & Letting Agents Bishopsworth"
-        ],
-        "position": 1
+        "Brand": "Martin & Co",
+        "Branch": "Southampton City",
+        "Office": "Martin & Co - Southampton City",
+        "Keyword": "estate agents in Southampton City",
+        "ranking_list": [],
+        "position": null
     }
 ]
